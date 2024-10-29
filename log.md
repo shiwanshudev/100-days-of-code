@@ -8,3 +8,12 @@
 
 **Link to work:** [Medicine Management App](https://medicine-management-tau.vercel.app/)
 **Course Link:** [Stephen Grider's Course](https://www.udemy.com/course/sql-and-postgresql)
+
+### Day 1: October 29, 2024
+
+**Today's Progress**: Learned more about next-auth, worked on cssbattle challenge and learned about one to many and many to one relationships.
+
+**Thoughts:** I feel like despite putting in the time it didn't feel like it was enough. May be because I didn't actually built something. 
+
+**Link to work:** [YouTube Tutorial for Next-Auth](https://www.youtube.com/watch?v=uCb-Q51Z2vQ)
+**Course Link:** [Stephen Grider's Course](https://www.udemy.com/course/sql-and-postgresql)
