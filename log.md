@@ -17,3 +17,12 @@
 
 **Link to work:** [YouTube Tutorial for Next-Auth](https://www.youtube.com/watch?v=uCb-Q51Z2vQ)
 **Course Link:** [Stephen Grider's Course](https://www.udemy.com/course/sql-and-postgresql)
+
+### Day 2: October 30, 2024
+
+**Today's Progress**: Learned about One to One, Many to Many relationship, Primary Key and Foreign Key. Created Sign Up and Sign In page using shadcn for next-auth. 
+
+**Thoughts:** I felt like I did make some progress but still effort was lacking I think. I need to become more focused towards my goals and avoid distractions.
+
+**Link to work:** [YouTube Tutorial for Next-Auth](https://www.youtube.com/watch?v=uCb-Q51Z2vQ)
+**Course Link:** [Stephen Grider's Course](https://www.udemy.com/course/sql-and-postgresql)
