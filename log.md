@@ -26,3 +26,13 @@
 
 **Link to work:** [YouTube Tutorial for Next-Auth](https://www.youtube.com/watch?v=uCb-Q51Z2vQ)
 **Course Link:** [Stephen Grider's Course](https://www.udemy.com/course/sql-and-postgresql)
+
+
+### Day 3: October 31, 2024
+
+**Today's Progress**:  Learned about REFERENCES keyword and Foreign Key in SQL. Completed today's CSS Battle.
+
+
+**Thoughts:** I didn't put much effort today because I was a bit preoccupied with festival preparations. Happy Diwali! :)
+
+**Course Link:** [Stephen Grider's Course](https://www.udemy.com/course/sql-and-postgresql)
