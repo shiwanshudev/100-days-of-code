@@ -53,7 +53,7 @@
 **Today's Progress**: Learned about JOIN in SQL. Completed today's cssbattle.
 
 
-**Thoughts:** I was exhausted and not very motivated today. However, I progressed a little. 
+**Thoughts:** I was exhausted and not very motivated today. I should increase my workload. This is bare minimum and won't cut it if I am to land my next role soon. Apart from this I also need to apply to companies.
 
 **Course Link:** [Stephen Grider's Course](https://www.udemy.com/course/sql-and-postgresql)
 
