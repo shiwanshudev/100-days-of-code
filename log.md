@@ -36,3 +36,24 @@
 **Thoughts:** I didn't put much effort today because I was a bit preoccupied with festival preparations. Happy Diwali! :)
 
 **Course Link:** [Stephen Grider's Course](https://www.udemy.com/course/sql-and-postgresql)
+
+
+### Day 4: October 1 2024
+
+**Today's Progress**: Learned on delete cascade, on delete null implementation in SQL. Completed css battle for the day.
+
+
+**Thoughts:** I skipped posting here and only posted on X so updating it now. 
+
+**Course Link:** [Stephen Grider's Course](https://www.udemy.com/course/sql-and-postgresql)
+
+
+### Day 5: October 2 2024
+
+**Today's Progress**: Learned about JOIN in SQL. Completed today's cssbattle.
+
+
+**Thoughts:** I was exhausted and not very motivated today. However, I progressed a little. 
+
+**Course Link:** [Stephen Grider's Course](https://www.udemy.com/course/sql-and-postgresql)
+
