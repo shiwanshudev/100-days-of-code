@@ -57,3 +57,13 @@
 
 **Course Link:** [Stephen Grider's Course](https://www.udemy.com/course/sql-and-postgresql)
 
+
+### Day 6: October 3 2024
+
+**Today's Progress**: Completed today's css battle, resolved merge conflict in portfolio and did 2 DSA questions on GFG.
+
+
+**Thoughts:** I did make better use of time since yesterday but I still am wasting a lot of time. Need to improve efficiency.
+
+**Course Link:** [Stephen Grider's Course](https://www.udemy.com/course/sql-and-postgresql)
+
