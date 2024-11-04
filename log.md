@@ -67,3 +67,12 @@
 
 **Course Link:** [Stephen Grider's Course](https://www.udemy.com/course/sql-and-postgresql)
 
+
+### Day 7: October 4 2024
+
+**Today's Progress**: Completed today's css battle, studied overview of joins statements in SQL and did 1 GFG problem.
+
+**Thoughts:** Need to start programming after breakfast.
+
+**Course Link:** [Stephen Grider's Course](https://www.udemy.com/course/sql-and-postgresql)
+
