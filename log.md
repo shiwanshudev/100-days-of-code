@@ -76,3 +76,11 @@
 
 **Course Link:** [Stephen Grider's Course](https://www.udemy.com/course/sql-and-postgresql)
 
+### Day 8: October 5 2024
+
+**Today's Progress**: Completed today's css battle, left outer join and right outer join in SQL and did 1 GFG problem.
+
+**Thoughts:** I did okay today. Also worked on resumeworded for my resume score and linkedin profile.
+
+**Course Link:** [Stephen Grider's Course](https://www.udemy.com/course/sql-and-postgresql)
+
