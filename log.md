@@ -88,6 +88,6 @@
 
 **Today's Progress**: Completed today's css battle, learned three way join in SQL and did 1 GFG problem.
 
-**Thoughts:** Didn't have much time because I had to go out because of pooja. Updated resume as well.
+**Thoughts:** Didn't have much time because I had to go out.
 
 **Course Link:** [Stephen Grider's Course](https://www.udemy.com/course/sql-and-postgresql)
