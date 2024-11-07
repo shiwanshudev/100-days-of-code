@@ -91,3 +91,11 @@
 **Thoughts:** Didn't have much time because I had to go out.
 
 **Course Link:** [Stephen Grider's Course](https://www.udemy.com/course/sql-and-postgresql)
+
+### Day 10: October 7 2024
+
+**Today's Progress**: Completed today's css battle, learned three way join in SQL and did revised some OOP concepts.
+
+**Thoughts:** One of those days you feel like shit. Did some work but I think I was really inefficient.
+
+**Course Link:** [Stephen Grider's Course](https://www.udemy.com/course/sql-and-postgresql)
