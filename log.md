@@ -99,3 +99,10 @@
 **Thoughts:** One of those days you feel like shit. Did some work but I think I was really inefficient.
 
 **Course Link:** [Stephen Grider's Course](https://www.udemy.com/course/sql-and-postgresql)
+
+### Day 11: October 8 2024
+
+**Today's Progress**: Completed today's css battle, learned group by and aggregate functions in SQL.
+
+**Thoughts:** I was mostly outside today. So, I didn't do anything else.
+**Course Link:** [Stephen Grider's Course](https://www.udemy.com/course/sql-and-postgresql)
