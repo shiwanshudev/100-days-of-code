@@ -106,3 +106,10 @@
 
 **Thoughts:** I was mostly outside today. So, I didn't do anything else.
 **Course Link:** [Stephen Grider's Course](https://www.udemy.com/course/sql-and-postgresql)
+
+### Day 12: October 9 2024
+
+**Today's Progress**: Completed today's css battle, Learned about the group by clause with aggregate functions in SQL.
+
+**Thoughts:** Do better!
+**Course Link:** [Stephen Grider's Course](https://www.udemy.com/course/sql-and-postgresql)
