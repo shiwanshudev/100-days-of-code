@@ -113,3 +113,10 @@
 
 **Thoughts:** Do better!
 **Course Link:** [Stephen Grider's Course](https://www.udemy.com/course/sql-and-postgresql)
+
+### Day 13: October 10 2024
+
+**Today's Progress**: Learned about HAVING clause. Completed today's #cssbattle. Learned some concepts in Java like final keyword and nested classes.
+
+**Thoughts:** Used a tool for managing time called furtherance. A bit exhausted today so need to manage energy levels from now.
+**Course Link:** [Stephen Grider's Course](https://www.udemy.com/course/sql-and-postgresql)
