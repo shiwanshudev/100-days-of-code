@@ -120,3 +120,17 @@
 
 **Thoughts:** Used a tool for managing time called furtherance. A bit exhausted today so need to manage energy levels from now.
 **Course Link:** [Stephen Grider's Course](https://www.udemy.com/course/sql-and-postgresql)
+
+### Day 14: October 11 2024
+
+**Today's Progress**: Did problem on HAVING in SQL, it was an interesting case of aggregate function where you had to filter a calculated amount. Completed today's cssbattle with 100% match.
+
+**Thoughts:** Not a productive day.
+**Course Link:** [Stephen Grider's Course](https://www.udemy.com/course/sql-and-postgresql)
+
+### Day 15: October 12 2024
+
+**Today's Progress**: Did some more problems on group by and join clauses. Learned about order by for sorting. Completed today's cssbattle with 100% match.
+
+**Thoughts:** Trying to setup a better system.
+**Course Link:** [Stephen Grider's Course](https://www.udemy.com/course/sql-and-postgresql)
