@@ -134,3 +134,11 @@
 
 **Thoughts:** Trying to setup a better system.
 **Course Link:** [Stephen Grider's Course](https://www.udemy.com/course/sql-and-postgresql)
+
+
+### Day 16: October 13 2024
+
+**Today's Progress**: Updated the medicine management project to use server actions, completed today's css challenge.
+
+**Thoughts:** It almost took me whole day to update the project. To learn about server actions and implement them. It is still a bit slow, may be due to free database but at least it is working. I think some recruiter even tried testing it when it was not working. I missed an opportunity I guess. Also, I changed my theme to use dracula and I've been able to code longer. I'm not sure about productivity but if I can stare at code for a second longer, I should do it! The problem is that I don't spend enough time on my craft. Also, I have to think I can, because if I think I can't I definitely can't. All the best.
+**Course Link:** [Medicine Management Project](https://medicine-management-tau.vercel.app/)
